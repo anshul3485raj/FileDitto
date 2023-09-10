@@ -1,0 +1,74 @@
+{
+  "seo": {
+    "basic": {
+      "name": "Basic Bundle",
+      "description": "Suscipit",
+      "price": "$25",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac."
+      ]
+    },
+    "pro": {
+      "name": "Pro Bundle",
+      "description": "Suscipit + donec",
+      "price": "$38",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac.",
+        "Morbi praesent aptent integer at.",
+        "Nisl potenti ut auctor lobortis."
+      ]
+    }
+  },
+  "smo": {
+    "basic": {
+      "name": "Basic Bundle",
+      "description": "Suscipit",
+      "price": "$25",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac."
+      ]
+    },
+    "pro": {
+      "name": "Pro Bundle",
+      "description": "Suscipit + donec",
+      "price": "$38",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac.",
+        "Morbi praesent aptent integer at.",
+        "Nisl potenti ut auctor lobortis."
+      ]
+    }
+  },
+  "videoe": {
+    "basic": {
+      "name": "Basic Bundle",
+      "description": "Suscipit",
+      "price": "$456456455",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac."
+      ]
+    },
+    "pro": {
+      "name": "Pro Bundle",
+      "description": "Suscipit + donec",
+      "price": "$5555558",
+      "features": [
+        "Lectus ut nibh quam, felis porttitor.",
+        "Ante nec venenatis etiam lacinia.",
+        "Porta suscipit netus ad ac.",
+        "Morbi praesent aptent integer at.",
+        "Nisl potenti ut auctor lobortis."
+      ]
+    }
+  }
+}
